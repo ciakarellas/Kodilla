@@ -1,0 +1,27 @@
+{
+  "name": "kodilla-nowy",
+  "version": "1.0.0",
+  "description": "Mój pierwszy projekt z grunt",
+  "main": "index.js",
+  "scripts": {
+    "test": "get back Halina"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ciakarellas/Kodilla.git"
+  },
+  "keywords": [
+    "new"
+  ],
+  "author": "Maciek Wróblewski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ciakarellas/Kodilla/issues"
+  },
+  "homepage": "https://github.com/ciakarellas/Kodilla#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-sass": "^2.0.0"
+  }
+}
