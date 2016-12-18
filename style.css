@@ -5,6 +5,12 @@ body {
   max-width: 1000px; }
 
 h1 {
-  text-align: center; }
+  text-align: center;
+  color: #453556;
+  font-size: 200px; }
+
+h2 {
+  font-size: 50px;
+  width: 400px; }
 
 /*# sourceMappingURL=style.css.map */
